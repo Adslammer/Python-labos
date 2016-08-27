@@ -1,0 +1,1 @@
+Vježba iz kolegija skriptni jezici.

@@ -1,0 +1,10 @@
+0036111111 Ivic,Ivo
+0036222222 Maric,Ivana
+0036233333 Horvat,Igor
+0036444444 Potter,Harry
+0036555555 Granger,Hermione
+0036666666 Weasley,Ron
+0036777777 Patil,Padma
+0036888888 Patil,Parvati
+0036999999 Weasley,Percy
+0036000000 Dumbledore,Albus
